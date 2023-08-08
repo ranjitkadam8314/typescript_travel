@@ -1,0 +1,15 @@
+/* .imageslider {
+  width: "100%";
+  height: 300px;
+} */
+
+.image-gallery-slide img {
+  width: 100%;
+  height: 300px;
+}
+
+.text {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+}

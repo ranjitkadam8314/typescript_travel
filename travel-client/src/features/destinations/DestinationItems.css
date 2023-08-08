@@ -1,0 +1,20 @@
+.paginate ul {
+  display: flex;
+  list-style: none;
+  font-size: 0.8em;
+  justify-content: center;
+}
+
+.paginate li {
+  background-color: cyan;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.paginate .selected {
+  background-color: #40a0a0;
+}
+.paginate .disabled {
+  background-color: #999;
+}
